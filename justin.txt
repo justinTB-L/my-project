@@ -1,3 +1,7 @@
 I added smt to this
+<<<<<<< HEAD
 
 im running thru the street
+=======
+this is slime
+>>>>>>> alexis
